@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @codewithabdou
-- 👀 I’m interested in web developpement
-- 🌱 I’m currently learning HTML/CSS/JS
+- 👀 I’m interested in web and game developpement
 - 💞️ I’m looking to collaborate on projects and challenges
 - 📫 How to reach me : kk_habouche@esi.dz
 
