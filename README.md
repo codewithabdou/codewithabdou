@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on modern react projects<br>👯 I’m looking to collaborate on New available projects<br>🌱 I’m currently learning Next.js & Typescript<br>💬 Ask me about any code you want to know more about in my projects or something you don't understand <br>⚡ I have experienced game & mobile development 
+🔭 I’m currently working on modern react / Next JS projects<br>👯 I’m looking to collaborate on New available projects<br>🌱 I’m currently learning ML & DL<br>💬 Ask me about any code you want to know more about in my projects or something you don't understand <br>⚡ I have experienced game & mobile development 
 
 
 ## 🌐 Socials:
